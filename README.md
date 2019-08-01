@@ -1,2 +1,2 @@
-# po
+# po.js
 Product Owners
